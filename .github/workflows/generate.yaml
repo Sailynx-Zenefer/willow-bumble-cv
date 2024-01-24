@@ -37,6 +37,10 @@ jobs:
       with:
         name: resume
         path: out/
+    - name: Install GitHub CLI
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y hub
     - name: Stage
       run: |
         mkdir public
@@ -52,7 +56,7 @@ jobs:
     - name: Build Release
       shell: bash
       run: |
-        gh release create ${{ steps.current-datetime.outputs.CURRENT_DATETIME }} \
+        hub release create ${{ steps.current-datetime.outputs.CURRENT_DATETIME }} \
         -m ${{ steps.current-datetime.outputs.CURRENT_DATETIME }} \
         -a out/${{ github.actor }}_resume.html \
         -a out/${{ github.actor }}_resume.md \
