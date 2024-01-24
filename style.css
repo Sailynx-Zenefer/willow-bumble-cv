@@ -450,7 +450,7 @@ body {
     padding-right: 1em;
     padding-left: 1em;
     max-width: 64em;
-    color: black;
+    color: lightgrey;
 }
 
 *:not('#mkdbuttons') {
@@ -479,7 +479,7 @@ a {
 }
 
 body {
-    background-color: black;
+    background-color: lightgrey;
     padding: 30px;
     margin: 15px;
     font-size: 14px;
