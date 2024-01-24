@@ -1,8 +1,8 @@
 ---
-title: Viktor Vaughn
+title: Willow Bumble
 ---
-###### [ [Github](https://www.github.com/siph) ] - [ [Blog](https://www.dev.to/siph) ] - [ v.vaughn@gmail.com ] - [ 814 332 8091 ]
-#### Experienced project manager with a track record of delivering high-quality results on time and within budget.
+###### [ [Github](https://github.com/Sailynx-Zenefer) ] - [ [Website](https://siderealism.space/) ] - [ willowbumble.space@gmail.com ] - [ (+44)7907 897 554 ]
+#### Junior  with a track record of creating creative content.
 
 ## Skills
 ```Project management```
@@ -10,35 +10,28 @@ title: Viktor Vaughn
 ```Budget management```
 ```Communication```
 ```Problem-solving```
-```Agile methodology```
-```Microsoft Project```
-```JIRA```
 ```SQL```
 
-**Languages**: Java, Kotlin, Rust  
-**Databases**: Redis, Postgres, Neo4j  
-**Tools**: Spring, Kubernetes, Github-Actions, Linux, Nix, Git, Rest, GraphQL
+**Languages**: Javascript, HTML, CSS, SQL, Python, Common Lisp, Racket/Scheme
+**Databases**: Postgresql
+**Tools**: Linux, Git, Github-Actions
 
 ## Experience
-### Jamba Juice
-##### Senior Project Manager, January 2015 - Present
-- Led cross-functional teams in the successful delivery of multiple software projects, including a major website redesign and a mobile app launch.
-- Managed budgets of up to $5 million and ensured projects were delivered on time and within scope.
-- Coordinated communication with stakeholders, including executive leadership and development teams.
-
-### PF Chang's
-##### Project Manager, February 2011 - December 2014
-- Managed a portfolio of software and hardware projects, including a new CRM implementation and a network infrastructure upgrade.
-- Worked closely with business analysts and technical teams to ensure project requirements were met and delivered on schedule.
-- Maintained project documentation and provided regular status updates to executive leadership.
+### Siderealism
+##### Self-Employed multi-role (including web dev)
+- Designed own website
+- Designed own logo 
 
 
 ## Projects
-**[*resume-md*](http://www.github.com/siph/resume-md)**
+**[*Canon*](https://github.com/osaxon/canon)**
 
-Build your resume using markdown and have it generated as a pdf and html.
+A social app that provides a unique experience for users by combining user collaboration with a generative image model.
 
 ## Education
 
-### Reno University
-**Degree:** Bachelor of Science in Computer Science | **Years Attended:** 2016-2019 | **City, State:** Reno, NV
+### City College Brighton
+**Access to higher Education** Computer Science | **Years Attended:** 2017-2018
+
+### Northcoders
+**Bootcamp:** Software Development bootcamp | **Years Attended:** 2023-2024 
