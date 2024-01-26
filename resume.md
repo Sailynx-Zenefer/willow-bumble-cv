@@ -2,15 +2,15 @@
 title: Willow Bumble
 ---
 ###### [ [Github](https://github.com/Sailynx-Zenefer) ] - [ [Website](https://siderealism.space/) ] - [ willowbumble.space@gmail.com ] - [ (+44)7907 897 554 ]
-#### Junior Software Developer with a history of 
+#### Junior Software Developer
+(WiP)
+Over the last 5 years, I have been involved in a variety of creative projects that have led me to starting my own business, "Siderealism", selling clothes and putting on events.  
 
 ## Skills
-```Project management```
-```Team leadership```
-```Budget management```
+```Creativity```
 ```Communication```
 ```Problem-solving```
-```SQL```
+```Research```
 
 **Languages**: Javascript, HTML, CSS, SQL, Python, Common Lisp, Racket/Scheme
 **Databases**: Postgresql
@@ -19,7 +19,7 @@ title: Willow Bumble
 ## Experience
 
 ### Northcoders
-**Bootcamp:** Software Development bootcamp | **Years Attended:** 2023-2024 
+**Bootcamp:** Software Development bootcamp **Years Attended:** 2023-2024 
 
 ### Siderealism
 ##### Self-Employed multi-role (including web dev)
@@ -39,5 +39,7 @@ A social app that provides a unique experience for users by combining user colla
 
 ## Education
 
-### City College Brighton
-**Access to higher Education** Computer Science | **Years Attended:** 2017-2018
+### City College, Brighton
+**Access to higher Education** Computer Science **Years Attended:** 2017-2018
+### Prory School, Lewes
+**GCSEs** Science A* | Math & English B  **Years Attended:** 2005-2010
